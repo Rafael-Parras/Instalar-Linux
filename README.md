@@ -28,7 +28,7 @@ Antes de iniciar, certifique-se de ter instalado:
 
 > **[PRINT 1]**
 > Tela de criação da VM (mostrar nome, tipo, versão e ISO selecionada)  
-> ![Criação da VM](assets/print1.png)
+> ![Criação da VM](assets/a.png)
 
 ---
 
