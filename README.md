@@ -49,7 +49,7 @@ Antes de iniciar, certifique-se de ter instalado:
 
 > **[PRINT 3]**
 > Tela de armazenamento mostrando a ISO conectada  
-> ![Armazenamento](assets/print3.png)
+> ![Armazenamento](assets/Certa.png)
 
 ---
 
@@ -64,7 +64,7 @@ Antes de iniciar, certifique-se de ter instalado:
 
 > **[PRINT 4]**
 > Tela do instalador (usuário ou particionamento)  
-> ![Instalação](assets/print4.png)
+> ![Instalação](assets/Certaa.png)
 
 ---
 
