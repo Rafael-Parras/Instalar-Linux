@@ -39,7 +39,7 @@ Antes de iniciar, certifique-se de ter instalado:
 
 > **[PRINT 2]**
 > Tela de configuração de memória e processador  
-> ![Hardware](assets/print2.png)
+> ![Hardware](assets/ab.png)
 
 ---
 
